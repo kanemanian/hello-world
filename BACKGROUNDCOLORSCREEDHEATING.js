@@ -23,7 +23,7 @@ var hms       = getVariableValue("IO_hydralicmotorstatus");
 var myColorGreen = new Array(4);
 
 
-myColorGreen[0] = 57;
+myColorGreen[0] = 60;
 
 myColorGreen[1] = 181;
 
